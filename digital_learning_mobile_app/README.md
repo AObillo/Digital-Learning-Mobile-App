@@ -68,3 +68,25 @@ The app follows a structured and intuitive navigation flow:
 
 > This repository is private and intended for internal development and collaboration only.  
 > Please contact the project owner for access or contribution inquiries.
+
+## Screenshots
+
+![Login Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141140.png?raw=true "Login Page")
+
+![create account page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141241.png?raw=true "create account page")
+
+![Program listings Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141253.png?raw=true "Program listings Page")
+
+![program details](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141308.png?raw=true "program details")
+
+![certificates download Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141323.png?raw=true "certificates download Page")
+
+![Notifications Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141338.png?raw=true "Notifications Page")
+
+![Profile Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141350.png?raw=true "Profile Page")
+
+![Logout Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141402.png?raw=true "Logout Page")
+
+![Login Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141429.png?raw=true "Login Page")
+
+![Two factor authentication Page](/Week%202%20deliverable%20screenshots/Screenshot%202025-10-20%20141440.png?raw=true "Two factor authentication Page")
